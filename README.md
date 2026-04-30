@@ -1,1 +1,1 @@
-﻿Redirects to https://distinction-settled-thru-charges.trycloudflare.com
+﻿Redirects to https://calculator-prostores-neo-reservation.trycloudflare.com
