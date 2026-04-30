@@ -1,1 +1,1 @@
-﻿Redirects to https://light-magic-specify-cells.trycloudflare.com
+﻿Redirects to https://arlington-eastern-goal-department.trycloudflare.com
