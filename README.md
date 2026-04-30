@@ -1,1 +1,1 @@
-﻿Redirects to https://calculator-prostores-neo-reservation.trycloudflare.com
+﻿Redirects to https://animation-wright-without-nationally.trycloudflare.com
