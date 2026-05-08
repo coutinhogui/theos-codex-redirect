@@ -1,1 +1,1 @@
-﻿Redirects to https://medication-stayed-replica-couple.trycloudflare.com
+﻿Redirects to https://egg-treat-enforcement-bearing.trycloudflare.com
