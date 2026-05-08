@@ -1,1 +1,1 @@
-﻿Redirects to https://sections-way-embassy-faqs.trycloudflare.com
+﻿Redirects to https://documentation-approximately-begins-omaha.trycloudflare.com
