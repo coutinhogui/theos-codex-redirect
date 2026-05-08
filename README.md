@@ -1,1 +1,1 @@
-﻿Redirects to https://egg-treat-enforcement-bearing.trycloudflare.com
+﻿Redirects to https://yen-dad-rocks-reservations.trycloudflare.com
