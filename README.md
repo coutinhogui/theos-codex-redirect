@@ -1,1 +1,1 @@
-﻿Redirects to https://yen-dad-rocks-reservations.trycloudflare.com
+﻿Redirects to https://lauderdale-authorized-copyrights-pdas.trycloudflare.com
