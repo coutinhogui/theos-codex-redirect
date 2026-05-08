@@ -1,1 +1,1 @@
-﻿Redirects to https://suggesting-jackson-wallet-resulted.trycloudflare.com
+﻿Redirects to https://sections-way-embassy-faqs.trycloudflare.com
