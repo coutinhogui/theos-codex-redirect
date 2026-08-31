@@ -1,0 +1,91 @@
+{
+  "updatedAt": "2026-08-31T22:22:00+02:00",
+  "tasks": [
+    {
+      "id": "flight-brasil",
+      "title": "Alterar as datas das passagens aéreas do Brasil",
+      "category": "Viagem",
+      "priority": "Alta",
+      "done": false,
+      "subtasks": [
+        "Conferir novas datas",
+        "Ver diferença de tarifa e multa",
+        "Confirmar todos os trechos após a alteração",
+        "Salvar os novos bilhetes"
+      ]
+    },
+    {
+      "id": "driver-bali",
+      "title": "Conversar com o motorista de Bali",
+      "category": "Bali",
+      "priority": "Alta",
+      "done": false,
+      "subtasks": [
+        "Confirmar datas e horários",
+        "Enviar os hotéis",
+        "Confirmar aeroporto → hotel",
+        "Combinar deslocamentos e passeios",
+        "Confirmar preço e forma de pagamento"
+      ]
+    },
+    {
+      "id": "prepare-bali",
+      "title": "Organizar todos os preparativos para Bali",
+      "category": "Bali",
+      "priority": "Alta",
+      "done": false,
+      "subtasks": [
+        "Conferir horários, números e conexões dos voos",
+        "Ver bagagem incluída em cada trecho",
+        "Conferir tamanho e peso da mala de cabine",
+        "Conferir tamanho e peso da mala despachada",
+        "Ver regras para mochila/item pessoal",
+        "Contratar ou conferir seguro viagem",
+        "Salvar apólice e contato de emergência",
+        "Conferir validade dos passaportes",
+        "Conferir requisitos de entrada e visto",
+        "Conferir formulários e declarações de entrada",
+        "Organizar reservas dos hotéis",
+        "Confirmar transportes entre hotéis",
+        "Montar roteiro por dia",
+        "Separar cartões e dinheiro",
+        "Ver eSIM/internet",
+        "Separar adaptador de tomada",
+        "Organizar medicamentos e itens pessoais",
+        "Separar protetor solar e repelente",
+        "Conferir Insta360/GoPro, cartões SD, carregadores e baterias",
+        "Fazer backup e liberar espaço para fotos e vídeos",
+        "Baixar mapas e documentos importantes offline",
+        "Salvar cópia digital de passaportes, passagens, seguro e reservas",
+        "Conferir transporte para o aeroporto"
+      ]
+    },
+    {
+      "id": "cook-food",
+      "title": "Cozinhar comida",
+      "category": "Casa",
+      "priority": "Normal",
+      "done": false,
+      "subtasks": [
+        "Decidir o que preparar",
+        "Conferir ingredientes",
+        "Comprar o que estiver faltando",
+        "Preparar, porcionar e guardar"
+      ]
+    },
+    {
+      "id": "stone-material",
+      "title": "Encontrar exemplos de material das pedras",
+      "category": "Pesquisa",
+      "priority": "Normal",
+      "done": false,
+      "subtasks": [
+        "Procurar fotos de referência",
+        "Procurar tipos de pedra e material",
+        "Comparar cor, textura e acabamento",
+        "Separar 3–5 exemplos preferidos"
+      ]
+    }
+  ],
+  "activity": []
+}
