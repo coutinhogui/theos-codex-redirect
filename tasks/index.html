@@ -1,0 +1,56 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover" />
+  <meta name="theme-color" content="#111827" />
+  <title>Meu Painel de Tarefas</title>
+  <link rel="stylesheet" href="./style.css" />
+</head>
+<body>
+  <main class="shell">
+    <header class="hero">
+      <div>
+        <p class="eyebrow">PAINEL PESSOAL</p>
+        <h1>Minhas tarefas</h1>
+        <p class="muted">Acompanhe o que falta e veja atualizações reconhecidas nos seus e-mails.</p>
+      </div>
+      <button id="refreshBtn" class="btn" type="button">↻ Atualizar</button>
+    </header>
+
+    <section class="summary" aria-label="Resumo">
+      <article><span id="doneCount">0</span><small>Concluídas</small></article>
+      <article><span id="pendingCount">0</span><small>Pendentes</small></article>
+      <article><span id="progressPct">0%</span><small>Progresso</small></article>
+    </section>
+
+    <section class="progress-wrap" aria-label="Progresso total">
+      <div class="progress"><div id="progressBar"></div></div>
+    </section>
+
+    <section class="toolbar">
+      <div class="filters" id="filters">
+        <button class="chip active" data-filter="all">Todas</button>
+        <button class="chip" data-filter="pending">Pendentes</button>
+        <button class="chip" data-filter="done">Concluídas</button>
+      </div>
+      <span id="syncStatus" class="sync">Carregando…</span>
+    </section>
+
+    <section id="taskList" class="task-list" aria-live="polite"></section>
+
+    <section class="activity-card">
+      <div class="section-title">
+        <h2>Atualizações automáticas</h2>
+        <span class="badge">E-mail</span>
+      </div>
+      <div id="activityList" class="activity-list"></div>
+    </section>
+
+    <footer>
+      <p>As marcações feitas neste aparelho ficam salvas localmente. Confirmações detectadas por e-mail podem atualizar o painel automaticamente.</p>
+    </footer>
+  </main>
+  <script src="./app.js"></script>
+</body>
+</html>
